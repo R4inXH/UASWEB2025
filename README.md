@@ -13,4 +13,4 @@ Kelompok UAS - Semester 6
 
 Rafly Hilman Sadikin 2271020054
 Pingky hera velianty 2271020052
-Putri anggita sari 2271020053
+Putri anggita sari   2271020053
